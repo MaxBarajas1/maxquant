@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+fastapi
+uvicorn
+supabase
+anthropic
+scikit-learn
+python-dotenv
