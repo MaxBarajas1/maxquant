@@ -102,5 +102,5 @@ maxquant/
 This project is for educational purposes only. AI-generated signals are not financial advice.
 
 ## Author
-**Max Barajas** — [LinkedIn](https://linkedin.com/in/maxbarajas) | [Portfolio](https://maxupgrade.net)
+**Max Barajas** — [LinkedIn](https://linkedin.com/in/max-barajas-x111)
 EOF
